@@ -1,2 +1,3 @@
 # Python
-This is where my python projects will be safe
+Basic Python Programs.
+Initial Phase of Learning Python
